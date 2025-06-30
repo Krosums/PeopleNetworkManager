@@ -11,8 +11,3 @@ export default defineConfig({
         tailwindcss(),
     ],
 });
-
-//testing, testing
-
-//huge test master
-//update kom
